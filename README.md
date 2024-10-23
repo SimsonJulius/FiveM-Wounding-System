@@ -11,8 +11,9 @@ Ja
 
 Blackouts und noch vieles mehr.
 
+### Welches Framework
 
-
+Man braucht als Framework ESX
 
 ## Weitere Scripts die man benötigt 
 
