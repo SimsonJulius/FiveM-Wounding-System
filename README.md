@@ -12,9 +12,9 @@ Ja
 Blackouts und noch vieles mehr.
 
 
-## Weitere Scripts die man benötigt
 
-Scripts 
+
+## Weitere Scripts die man benötigt 
 
   [Mythic Progressbar](https://github.com/TaemuruTempest/mythic_progbar.git)
   [Mythic Notify](https://github.com/TaemuruTempest/mythic_notify.git)
