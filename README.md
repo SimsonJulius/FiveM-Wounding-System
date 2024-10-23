@@ -16,7 +16,5 @@ Blackouts und noch vieles mehr.
 
 Scripts 
 
-```
   [Mythic Progressbar](https://github.com/TaemuruTempest/mythic_progbar.git)
   [Mythic Notify](https://github.com/TaemuruTempest/mythic_notify.git)
-```
