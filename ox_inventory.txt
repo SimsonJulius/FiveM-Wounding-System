@@ -1,0 +1,42 @@
+	["gauze"] = {
+		label = "Kompresse",
+		weight = 0.03,
+		stack = true,
+		close = true,
+	},
+	["bandage"] = {
+		label = "Bandagen",
+		weight = 0.1,
+		stack = true,
+		close = true,
+	},
+	["firstaid"] = {
+		label = "Erste Hilfe Kasten",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+	["medkit"] = {
+		label = "Medkit",
+		weight = 1.3,
+		stack = true,
+		close = true,
+	},
+	["vicodin"] = {
+		label = "Vicodin",
+		weight = 0.03,
+		stack = true,
+		close = true,
+	},
+	["hydrocodone"] = {
+		label = "Hydrocodon",
+		weight = 0.03,
+		stack = true,
+		close = true,
+	},
+	["morphine"] = {
+		label = "Morphine",
+		weight = 0.03,
+		stack = true,
+		close = true,
+	},
